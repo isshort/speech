@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+certifi = "==2020.12.5"
+chardet = "==4.0.0"
+click = "==7.1.2"
+idna = "==2.10"
+playsound = "==1.2.2"
+requests = "==2.25.1"
+six = "==1.15.0"
+urllib3 = "==1.26.4"
+gTTS = "==2.2.2"
+SpeechRecognition = "==3.8.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
